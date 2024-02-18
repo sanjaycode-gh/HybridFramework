@@ -90,7 +90,7 @@ public class StepDefinition {
         else{
             test.log(Status.FAIL, "backpack added to the cart is not equal to 1");
         }
-        assertEquals(2,actualItemsAdded);
+        assertEquals(1,actualItemsAdded);
 
     }
 
