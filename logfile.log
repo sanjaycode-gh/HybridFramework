@@ -1,0 +1,4 @@
+2024-02-19 20:12:40.574 [pool-3-thread-1] INFO  com.sy.utils.LogUtil - Testing the login functionality with valid credentials has started !!
+2024-02-19 20:12:40.574 [pool-3-thread-2] INFO  com.sy.utils.LogUtil - Testing the login functionality with valid credentials has started !!
+2024-02-19 20:12:40.814 [pool-3-thread-1] INFO  com.sy.utils.LogUtil - Navigating to the https://www.saucedemo.com/
+2024-02-19 20:12:41.541 [pool-3-thread-2] INFO  com.sy.utils.LogUtil - Navigating to the https://www.saucedemo.com/
